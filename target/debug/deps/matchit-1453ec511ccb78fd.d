@@ -1,0 +1,10 @@
+/Users/gisstudent/Projects/rust-projects/rust-hello-server/target/debug/deps/libmatchit-1453ec511ccb78fd.rmeta: /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/lib.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/error.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/escape.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/params.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/router.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/tree.rs
+
+/Users/gisstudent/Projects/rust-projects/rust-hello-server/target/debug/deps/matchit-1453ec511ccb78fd.d: /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/lib.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/error.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/escape.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/params.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/router.rs /Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/tree.rs
+
+/Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/lib.rs:
+/Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/error.rs:
+/Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/escape.rs:
+/Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/params.rs:
+/Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/router.rs:
+/Users/gisstudent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.8.4/src/tree.rs:
