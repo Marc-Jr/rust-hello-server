@@ -90,6 +90,3 @@ jobs:
       - name: Build project
         run: cargo build --release
 
-      - name: Deploy to GitHub Pages (Optional)
-        if: github.ref == 'refs/heads/main'
-        run: |
